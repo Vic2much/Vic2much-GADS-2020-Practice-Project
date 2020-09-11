@@ -1,10 +1,14 @@
 ---
+
 # Vic2much-GADS-2020-Practice-Project
+
+---
 
 This Project was done by **Victor Adeniyi** a.k.a. **Vic2much**.
 
 This is **Google Africa Developer Scholarship (GADS) 2020 Cloud Practice Project** which includes **14 completed labs** (by *Qwiklabs*) and **3 translated labs** (Translated to *Command lines* that can be used on/in *Google Cloud Shell/SDK & SSH* with detailed explainations)
----
+
+
 ## Content of each folders
 1. **Labs Completed**: **14 completed labs** (by *Qwiklabs*) (In .PDF (Portable Document Format))
 - Automating the Deployment of Infrastructure Using Deployment Manager
