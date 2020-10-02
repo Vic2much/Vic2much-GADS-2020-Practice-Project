@@ -73,7 +73,7 @@ gcloud config list project
 3. To confirm that needed APIs are enabled, type the following commands
 
 ```
-gcloud service-management list --enabled
+gcloud services list --enabled
 ```
 
 Check maybe you can see 
